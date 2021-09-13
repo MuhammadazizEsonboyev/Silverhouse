@@ -1,0 +1,14 @@
+.Nav {
+    text-align: center;
+  }
+.Nav .menu a{
+  text-decoration: none;
+  padding-left: 20px;
+  color: black;
+}
+
+.Nav .menu{
+  margin-top: 20px;
+}
+
+  
